@@ -1,0 +1,10 @@
+body{
+    font-family: 'Press Start 2P', cursive;
+    padding: 5% 17%;
+}
+
+section{
+    width: 40%;  
+    float: left;
+    margin : 50px;
+}
